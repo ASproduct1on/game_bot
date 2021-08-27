@@ -1,22 +1,5 @@
 "use strict";
 
-
-// function gameBot (number) {
-//     let resault = false;
-
-//     if (!resault) {
-//         const answer = +prompt('Угадай число от 1 до 100?');
-//         if (answer) {
-//             number === answer;
-//             console.log("Поздравляю, Вы угадали!!!");
-//         }
-//         else if {
-
-//         }
-//     } 
-    
-// }
-
 function gameBot (number) {
     const answer = prompt('Угадай число от 1 до 100?');
 
